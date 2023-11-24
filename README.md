@@ -2,7 +2,7 @@
 
 
 # Hi there 👋 I am Mike!
-
+[![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mike-rambil)](https://github.com/mike-rambil/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

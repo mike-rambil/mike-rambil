@@ -10,6 +10,9 @@
 <h4 align="center">A full-stack developer from Chicago,IL!</h4>
 
 - Welcome to my GitHub profile...
+- [Visit my portfolio HERE!](https://mike-palliparambil.vercel.app/)
+- [I write blogs regularly here..](https://mike-palliparambil.vercel.app/blog)
+- [Full Stack Projects I have built!](https://mike-palliparambil.vercel.app/portfolio)
 
 <div align="center">
 

@@ -6,15 +6,15 @@
 
 </br>
 
-<code>
+
 <h3 align="center">A full-stack developer from Chicago,IL!</h3>
-</code>
+
 
 
 
 </br>
 
-
+<code>
 - 🌱 I’m currently learning **TensorFlow, React Native...**
 
 - 👨‍💻 All of my projects are available at [https://mike-palliparambil.vercel.app/projects](https://mike-palliparambil.vercel.app/projects)
@@ -24,6 +24,8 @@
 - 💬 Ask me about **Next.js, React, React Native,**
 
 - 📫 How to reach me **mikerambil@gmail.com**
+</code>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -6,7 +6,6 @@
 <h3 align="center">A full-stack developer from Chicago,IL!</h3>
 
 <div align="center">
-<h2>Skills</h2>
 
 | Skill | Description |
 | ----- | ----------- |

@@ -34,11 +34,9 @@
 - 💬 Ask me about **Next.js, React, React Native,**
 ```
 
-<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mike-rambil&" alt="mike-rambil" /></div>
-
-
-
-
+|<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mike-rambil&" alt="mike-rambil" /></div>|<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mike-rambil&show_icons=true&locale=en&layout=compact" alt="mike-rambil" />|
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 <p align="left">
 </p>
 

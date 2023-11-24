@@ -2,7 +2,7 @@
 
 
 
-### Hi there 👋
+# Hi there 👋 I am Mike!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

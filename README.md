@@ -4,7 +4,7 @@
 </div>
 </br>
 <h3 align="center">A full-stack developer from Chicago,IL!</h3>
-
+<div align="center">
 #### Skills
 
 | Skill | Description |
@@ -20,7 +20,7 @@
 | Cloud |  AWS and Azure |
 
 -----
-
+</div>
 
 </br>
 

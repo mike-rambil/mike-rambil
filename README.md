@@ -23,7 +23,9 @@
 ```
 - 💬 Ask me about **Next.js, React, React Native,**
 ```
-- 📫 How to reach me **mikerambil@gmail.com**
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mike-rambil&" alt="mike-rambil" /></p>
+
 
 
 
@@ -37,5 +39,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mike-rambil&" alt="mike-rambil" /></p>
+- 📫 How to reach me **mikerambil@gmail.com**
 

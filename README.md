@@ -1,24 +1,18 @@
 <div align="center">
 
-# <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="120" /> &nbsp; Cool Avatars for GitHub Profile &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="120" />
-  
+# <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="120" /> &nbsp; Hi 👋, I'm Mike &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="120" />
 </div><br>
-<h1 align="center">Hi 👋, I'm Mike</h1>
 </br>
-
-
 <h3 align="center">A full-stack developer from Chicago,IL!</h3>
-
 -----
 
 #### Skills
 
 | Skill | Description |
 | ----- | ----------- |
-| Web Development | Full Stack with py/rust/js backend and Reactjs/NextJs/Gatsby Frontend
-| Machine Learning | Non deep machine learning with sklearn |
-| Microservices | Microservices in rust python Js (deno and node) elixir |
-| Databases | Normalization, Queries with PostgreSQL,Timescale, Cockroach,  Maria, Mongo, redis and Fauna |
+| Web Development | Full Stack with Backend- Node.js|Express.js and Frontend- React.js|Next.js |
+| Machine Learning | Machine learning with TensorFlow.js |
+| Databases | MongoDB, PostgreSQL, MySQL |
 | Discord Bots | Serenity.rs, Discord.py and Discord.js with full db support |
 | Docker | Skilled Containerization of workloads |
 | Devops | Minimal Kubernetes but great Docker/Docker-compose with both serveless and VPS deployments |

@@ -4,12 +4,7 @@
 </div>
 </br>
 <h3 align="center">A full-stack developer from Chicago,IL!</h3>
-<code>
-- 🌱 I’m currently learning **TensorFlow, React Native...**
-</code>
-<code>
-- 💬 Ask me about **Next.js, React, React Native,**
-</code>
+
 <div align="center">
 <h2>Skills</h2>
 

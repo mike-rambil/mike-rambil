@@ -24,7 +24,7 @@
 - 💬 Ask me about **Next.js, React, React Native,**
 ```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mike-rambil&" alt="mike-rambil" /></p>
+<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mike-rambil&" alt="mike-rambil" /></div>
 
 
 
@@ -37,7 +37,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mike-rambil&show_icons=true&locale=en&layout=compact" alt="mike-rambil" /></p>
 
-
+</br>
 
 - 📫 How to reach me **mikerambil@gmail.com**
 

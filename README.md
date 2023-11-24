@@ -13,6 +13,11 @@ Welcome to my GitHub profile...
 - [I write blogs regularly here..](https://mike-palliparambil.vercel.app/blog)
 - [Full Stack Projects I have built!](https://mike-palliparambil.vercel.app/portfolio)
 
+- <a href="https://mike-palliparambil.vercel.app/" target="_blank">Visit my portfolio HERE!</a>
+- <a href="https://mike-palliparambil.vercel.app/blog" target="_blank">I write blogs regularly here..</a>
+- <a href="https://mike-palliparambil.vercel.app/portfolio" target="_blank">Full Stack Projects I have built!</a>
+
+
 <div align="center">
 
 | Skill | Description |

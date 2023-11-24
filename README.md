@@ -2,7 +2,7 @@
 
 #  &nbsp; Hi 👋, I'm Mike &nbsp; 
 </div>
-</br>
+
 <h4 align="center">A full-stack developer from Chicago,IL!</h4>
 
 <div align="center">

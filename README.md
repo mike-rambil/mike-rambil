@@ -11,14 +11,14 @@
 | Skill | Description |
 | ----- | ----------- |
 | Web Development | Full Stack with Backend- Node.js, Express.js and Frontend- React.js, Next.js |
-| Machine Learning | Machine learning with TensorFlow.js |
+| Machine Learning | TensorFlow.js |
 | Databases | MongoDB, PostgreSQL, MySQL |
-| Discord Bots | Serenity.rs, Discord.py and Discord.js with full db support |
-| Docker | Skilled Containerization of workloads |
-| Devops | Minimal Kubernetes but great Docker/Docker-compose with both serveless and VPS deployments |
+| TDD |  Jest, Puppeteer(End-to-End Testing), Mocha & Chai |
+| Docker | Familiar with Containerization of workloads |
+| Container Orchestration | Kubernetes, OpenShift |
+| CI/CD Pipelines | Tekton, Github Actions |
 | Serverless | Cloud functions, firebase and container runtimes |
-| Image Processing | Variety of libraries, including my own. Image Processing in 3 languages |
-| Cloud | Familiar with AWS and GCP products |
+| Cloud |  AWS and Azure |
 
 -----
 

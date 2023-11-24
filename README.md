@@ -24,7 +24,7 @@
 - 💬 Ask me about **Next.js, React, React Native,**
 ```
 
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mike-rambil&" alt="mike-rambil" /></div>
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mike-rambil&" alt="mike-rambil" /></div>
 
 
 

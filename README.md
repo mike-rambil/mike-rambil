@@ -10,7 +10,7 @@
 
 | Skill | Description |
 | ----- | ----------- |
-| Web Development | Full Stack with Backend- Node.js|Express.js and Frontend- React.js|Next.js |
+| Web Development | Full Stack with Backend- Node.js, Express.js and Frontend- React.js, Next.js |
 | Machine Learning | Machine learning with TensorFlow.js |
 | Databases | MongoDB, PostgreSQL, MySQL |
 | Discord Bots | Serenity.rs, Discord.py and Discord.js with full db support |

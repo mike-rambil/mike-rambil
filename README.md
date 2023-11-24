@@ -4,9 +4,9 @@
 </div>
 </br>
 <h3 align="center">A full-stack developer from Chicago,IL!</h3>
-
-#### Skills
 <div align="center">
+<h2>Skills</h2>
+
 | Skill | Description |
 | ----- | ----------- |
 | Web Development | Full Stack with Backend- Node.js, Express.js and Frontend- React.js, Next.js |

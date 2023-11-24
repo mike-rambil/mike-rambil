@@ -27,7 +27,6 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -36,7 +35,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mike-rambil&show_icons=true&locale=en&layout=compact" alt="mike-rambil" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mike-rambil&show_icons=true&locale=en" alt="mike-rambil" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mike-rambil&" alt="mike-rambil" /></p>
 

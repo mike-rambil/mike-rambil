@@ -39,9 +39,9 @@
 
 | Socials | Links |
 | ----- | ----------- |
-| Portfolio | (Click Me)[https://mike-palliparambil.vercel.app/] |
-
-
+| Portfolio | [Visit my portfolio HERE!](https://mike-palliparambil.vercel.app/) |
+| Blogs | [I write blogs regularly here..](https://mike-palliparambil.vercel.app/blogs) |
+| Projects | [Full Stack Projects I have built!](https://mike-palliparambil.vercel.app/projects) |
 -----
 </div>
 <h4 align="center">📫 How to reach me mikerambil@gmail.com!</h4>

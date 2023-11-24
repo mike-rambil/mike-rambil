@@ -14,7 +14,7 @@
 
 </br>
 
-<code>
+```
 - 🌱 I’m currently learning **TensorFlow, React Native...**
 
 - 👨‍💻 All of my projects are available at [https://mike-palliparambil.vercel.app/projects](https://mike-palliparambil.vercel.app/projects)
@@ -24,7 +24,7 @@
 - 💬 Ask me about **Next.js, React, React Native,**
 
 - 📫 How to reach me **mikerambil@gmail.com**
-</code>
+```
 
 
 <h3 align="left">Connect with me:</h3>

@@ -1,22 +1,7 @@
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
-
-
 <div align="center">
-
 # <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="120" /> &nbsp; Cool Avatars for GitHub Profile &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="120" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212259347-a485318e-d949-4b9f-9d38-35d0a566deb1.png" width="200" /><img src="https://user-images.githubusercontent.com/74038190/212262208-6e0cbfcb-1965-4b5e-9625-fee0a5d172d3.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259363-d40b7a35-375b-470c-b4e2-2d9cb8ac706c.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259366-1e33063f-1384-459b-9ea5-8ee5e25b63dc.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259368-24dc6042-bc0f-4f29-85ed-5f4059aa7f31.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259371-1f8d691d-068f-49ea-a58b-cfe103c9ff0f.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259377-06fca729-ae7a-480f-8aea-e67670108a1c.jpg" width="200" />
-
-  
 </div><br>
-
 <h1 align="center">Hi 👋, I'm Mike</h1>
-
 </br>
 
 

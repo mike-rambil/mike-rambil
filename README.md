@@ -9,7 +9,24 @@
 
 <h3 align="center">A full-stack developer from Chicago,IL!</h3>
 
+-----
 
+#### Skills
+
+| Skill | Description |
+| ----- | ----------- |
+| Web Development | Full Stack with py/rust/js backend and Reactjs/NextJs/Gatsby Frontend
+| Machine Learning | Non deep machine learning with sklearn |
+| Microservices | Microservices in rust python Js (deno and node) elixir |
+| Databases | Normalization, Queries with PostgreSQL,Timescale, Cockroach,  Maria, Mongo, redis and Fauna |
+| Discord Bots | Serenity.rs, Discord.py and Discord.js with full db support |
+| Docker | Skilled Containerization of workloads |
+| Devops | Minimal Kubernetes but great Docker/Docker-compose with both serveless and VPS deployments |
+| Serverless | Cloud functions, firebase and container runtimes |
+| Image Processing | Variety of libraries, including my own. Image Processing in 3 languages |
+| Cloud | Familiar with AWS and GCP products |
+
+-----
 
 
 </br>

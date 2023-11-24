@@ -37,9 +37,9 @@
 
 <div align="center">
 
-| Skill | Description |
+| Socials | Links |
 | ----- | ----------- |
-| Portfolio | Full Stack with Backend- Node.js, Express.js and Frontend- React.js, Next.js |
+| Portfolio | (Click Me)[https://mike-palliparambil.vercel.app/] |
 
 
 -----

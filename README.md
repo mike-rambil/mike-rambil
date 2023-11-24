@@ -3,13 +3,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Mike</h1>
-</br>
+
 </br>
 <h3 align="center">A full-stack developer from Chicago,IL!</h3>
 
 
 
-</br>
+
 </br>
 
 

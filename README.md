@@ -37,7 +37,7 @@
 
 <div align="center">
 
-| Socials |
+| Skill | Description |
 | ----- | ----------- |
 | Portfolio | Full Stack with Backend- Node.js, Express.js and Frontend- React.js, Next.js |
 

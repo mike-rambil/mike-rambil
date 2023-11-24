@@ -16,15 +16,15 @@
 
 ```
 - 🌱 I’m currently learning **TensorFlow, React Native...**
-
+```
 - 👨‍💻 All of my projects are available at [https://mike-palliparambil.vercel.app/projects](https://mike-palliparambil.vercel.app/projects)
 
 - 📝 I regularly write articles on [https://mike-palliparambil.vercel.app/blog](https://mike-palliparambil.vercel.app/blog)
-
-- 💬 Ask me about **Next.js, React, React Native,**
-
-- 📫 How to reach me **mikerambil@gmail.com**
 ```
+- 💬 Ask me about **Next.js, React, React Native,**
+```
+- 📫 How to reach me **mikerambil@gmail.com**
+
 
 
 <h3 align="left">Connect with me:</h3>

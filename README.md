@@ -4,6 +4,12 @@
 </div>
 </br>
 <h3 align="center">A full-stack developer from Chicago,IL!</h3>
+```
+- 🌱 I’m currently learning **TensorFlow, React Native...**
+```
+```
+- 💬 Ask me about **Next.js, React, React Native,**
+```
 <div align="center">
 <h2>Skills</h2>
 
@@ -23,14 +29,6 @@
 </div>
 
 </br>
-
-```
-- 🌱 I’m currently learning **TensorFlow, React Native...**
-```
-```
-- 💬 Ask me about **Next.js, React, React Native,**
-```
-
 |<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mike-rambil&" alt="mike-rambil" /></div>|<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mike-rambil&show_icons=true&locale=en&layout=compact" alt="mike-rambil" />|
 | ------------- | ------------- |
 

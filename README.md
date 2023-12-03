@@ -6,7 +6,12 @@
 #  &nbsp; Hi 👋, I'm Mike &nbsp; 
 </div>
 
-<h4 align="center">A full-stack developer from Chicago,IL!</h4>
+<h4 align="center">  
+  
+> A full-stack developer from Chicago, IL!
+
+
+</h4>
 
 Welcome to my GitHub profile...
 - [Visit my portfolio HERE!](https://mike-palliparambil.vercel.app/)

@@ -27,7 +27,7 @@ Welcome to my GitHub profile...
 | Web Development | Full Stack with Backend- Node.js, Express.js and Frontend- React.js, Next.js |
 | Microservices |  Amplication, Nestjs |
 | MessageQueues |  Kafka, RabbitMQ |
-| TDD |  Jest, Puppeteer(End-to-End Testing), Mocha & Chai |
+| TDD |  Jest, Cypress, Puppeteer(End-to-End Testing), Mocha & Chai |
 | Machine Learning | TensorFlow.js |
 | Databases | MongoDB, PostgreSQL, MySQL |
 | Docker | Familiar with Containerization of workloads |

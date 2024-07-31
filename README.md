@@ -12,7 +12,6 @@
 
 Welcome to my GitHub profile...
 - [Visit my portfolio HERE!](https://micheal-palliparambil.vercel.app/)
-- [Full Stack Projects I have built!](https://micheal-palliparambil.vercel.app/projects)
 
 
 

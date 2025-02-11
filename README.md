@@ -11,7 +11,7 @@
 </h4>
 <h4 align="center"> 
 Welcome to my GitHub profile...
-- [Visit my portfolio HERE!](https://micheal-palliparambil.vercel.app/)
+<a href='https://micheal-palliparambil.vercel.app/'>Visit my portfolio HERE!</a>
 
 </h4>
 

@@ -14,7 +14,7 @@ Welcome to my GitHub profile...
 <br/>
 </h4>
   
-<a href='https://micheal-palliparambil.vercel.app/'>Visit my portfolio HERE!</a>
+<a  align="center" href='https://micheal-palliparambil.vercel.app/'>Visit my portfolio HERE!</a>
 
 
 |<div align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mike-rambil&" alt="mike-rambil" /></div>|<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mike-rambil&show_icons=true&locale=en&layout=compact" alt="mike-rambil" />|

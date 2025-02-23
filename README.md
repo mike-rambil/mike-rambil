@@ -49,7 +49,6 @@ Welcome to my GitHub profile...
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"></div>
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=mike-palliparambil&label=Profile%20Views&color=0&pretty=true)](https://visitcount.itsvg.in)
 
 <h4 align="center">📫 Contact me -- mikerambil@gmail.com</h4> 
 

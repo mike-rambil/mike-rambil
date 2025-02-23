@@ -54,5 +54,3 @@ Welcome to my GitHub profile...
 <h4 align="center">📫 Contact me -- mikerambil@gmail.com</h4> 
 
 
-[![Mike's stats](https://github-readme-stats.vercel.app/api/wakatime?username=mike-rambil)](https://github.com/anuraghazra/github-readme-stats)
-

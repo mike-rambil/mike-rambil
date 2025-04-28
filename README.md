@@ -22,24 +22,7 @@ Welcome to my GitHub profile...
 | ------------- | ------------- |
 
 
-<div align="center">
 
-| Skill | Description |
-| ----- | ----------- |
-| Web Development | Full Stack with Backend- Node.js, Express.js and Frontend- React.js, Next.js |
-| Microservices |  Amplication, NestJS |
-| MessageQueues |  Kafka, RabbitMQ |
-| TDD |  Jest, Cypress, Puppeteer(End-to-End Testing), Mocha & Chai |
-| Machine Learning | TensorFlow.js |
-| Databases | MongoDB, PostgreSQL, MySQL |
-| Docker | Familiar with Containerization of workloads |
-| Container Orchestration | Kubernetes, OpenShift, Docker Swarm |
-| CI/CD Pipelines | Tekton, Github Actions |
-| Serverless | Cloud functions, firebase and container runtimes |
-| Cloud |  AWS and Azure |
-
------
-</div>
 
 
 

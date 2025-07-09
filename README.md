@@ -1,9 +1,6 @@
 
 
 
-|<div align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mike-rambil&" alt="mike-rambil" /></div>|<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mike-rambil&show_icons=true&locale=en&layout=compact" alt="mike-rambil" />|
-| ------------- | ------------- |
-
 
 
 <div align="center">
@@ -36,6 +33,9 @@ Welcome to my GitHub profile...
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&center=true&vCenter=true&width=800&height=60&duration=4000&lines=Hi+There!+👋;nvim+~/.zshrc;+tmux+new+-s+Productivity;Compiling+life+with+-O3;+BTW+I+use+Arch+Linux" />
 </h1>
 
+
+|<div align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mike-rambil&" alt="mike-rambil" /></div>|<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mike-rambil&show_icons=true&locale=en&layout=compact" alt="mike-rambil" />|
+| ------------- | ------------- |
 
 
 

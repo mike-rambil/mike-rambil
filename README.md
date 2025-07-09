@@ -1,4 +1,10 @@
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Micheal+Palliparambil!;" />
+</h1>
+
+
+
 |<div align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mike-rambil&" alt="mike-rambil" /></div>|<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mike-rambil&show_icons=true&locale=en&layout=compact" alt="mike-rambil" />|
 | ------------- | ------------- |
 

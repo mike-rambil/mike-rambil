@@ -10,7 +10,7 @@
 
 <h4 align="center">  
   
-> A full-stack developer from Chicago, IL!
+> A full-stack developer from Chicago, IL
 
 
 </h4>

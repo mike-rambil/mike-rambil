@@ -24,9 +24,6 @@ Welcome to my GitHub profile...
 </h4>
 
 
-<h4 align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"></div>
-</h4> 
 
 
 <h1 align="center">
@@ -46,5 +43,8 @@ Welcome to my GitHub profile...
 
 <h4 align="center">📫 Contact me -- <a href="mailto:mikerambil@gmail.com">mikerambil@gmail.com</a></h4>
 
+<h4 align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"></div>
+</h4> 
 
 

@@ -12,7 +12,7 @@
 
 <div align="center">
 
-#  &nbsp; Hi 👋, I'm Mike &nbsp; 
+# I'm Mike &nbsp; 🙂 
 </div>
 
 <h4 align="center">  

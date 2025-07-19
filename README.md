@@ -47,7 +47,10 @@ Welcome to my GitHub profile...
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"></div>
 </h4> 
 
-
+<div align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mike-rambil&label=Profile%20views&color=0e75b6&style=flat" alt="mike-rambil" /> </p>
+</div>
 
+<div align="center">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mike-rambil" alt="mike-rambil" /></a> </p>
+</div>

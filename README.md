@@ -48,3 +48,6 @@ Welcome to my GitHub profile...
 </h4> 
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mike-rambil&label=Profile%20views&color=0e75b6&style=flat" alt="mike-rambil" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mike-rambil" alt="mike-rambil" /></a> </p>

@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&center=true&vCenter=true&width=800&height=60&duration=4000&lines=&nbsp; Hi 👋, I'm Mike;nvim+~/.zshrc;+tmux+new+-s+Productivity;Compiling+life+with+-O3;+BTW+I+use+Arch+Linux" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&center=true&vCenter=true&width=800&height=60&duration=4000&lines=Hi 👋, I'm Mike;nvim+~/.zshrc;+tmux+new+-s+Productivity;Compiling+life+with+-O3;+BTW+I+use+Arch+Linux" />
 </h1>
 
 

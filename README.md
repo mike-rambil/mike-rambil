@@ -7,7 +7,9 @@
 </h1>
 
 <h4 align="center">
+
 > A full-stack developer from Chicago, IL
+
 </h4>
 
 <h4 align="center"> 

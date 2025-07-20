@@ -24,7 +24,7 @@ Welcome to my GitHub profile...
 
 <h4 align="center">📫 Contact me -- <a href="mailto:mikerambil@gmail.com">mikerambil@gmail.com</a></h4>
 
-<hr/>
+<h1><h1/>
 
 
 |<div align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mike-rambil&" alt="mike-rambil" /></div>|<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mike-rambil&show_icons=true&locale=en&layout=compact" alt="mike-rambil" />|

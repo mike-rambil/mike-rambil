@@ -12,12 +12,6 @@
 
 </h4>
 
-<h4 align="center"> 
-Welcome to my GitHub profile...
-<br/>
-
-</h4>
-
 <h4 align="center">
 <a  align="center" href='https://micheal-palliparambil.vercel.app/'>Visit my portfolio HERE!</a>
 </h4>

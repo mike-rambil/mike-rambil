@@ -16,7 +16,6 @@
 <a  align="center" href='https://micheal-palliparambil.vercel.app/'>Visit my portfolio HERE!</a>
 </h4>
 
-<h4 align="center">📫 Contact me -- <a href="mailto:mikerambil@gmail.com">mikerambil@gmail.com</a></h4>
 
 <h1><h1/>
 
